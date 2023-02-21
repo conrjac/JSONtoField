@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>sObject_Field__c</fullName>
+    <description>The API Name of the sObject Field that the JSON value will be stored in. Note: This is case sensitive, E.g Name and name are two values.</description>
+    <externalId>false</externalId>
+    <fieldManageability>DeveloperControlled</fieldManageability>
+    <inlineHelpText>The API Name of the sObject Field that the JSON value will be stored in. Note: This is case sensitive, E.g Name and name are two values.</inlineHelpText>
+    <label>sObject Field</label>
+    <length>60</length>
+    <required>true</required>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>
